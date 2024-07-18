@@ -84,7 +84,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #0F0D28;
+  background: #000000;
   box-shadow: 0px 2px 15px #dfcb56;
 }
 
@@ -1046,7 +1046,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #0F0D28;
+  background: #000000;
 }
 
 #footer .footer-top .footer-contact {
